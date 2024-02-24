@@ -1,0 +1,3 @@
+rep "Agile1-2022-GRP7@193.11.10.9:8087"
+  path "/"
+    smartbranch "/main/Goat/VladaPlatformer"         

@@ -1,0 +1,15 @@
+[Default]
+display.options.branch_level_filter=-1
+display.options.draw_branches=true
+display.options.draw_crossbranch_changeset_links=true
+display.options.draw_labels=true
+display.options.draw_merge_links=true
+display.options.draw_only_relevant_changesets=false
+display.options.draw_taskinfo=false
+display.options.end_date=637811711990000000
+display.options.end_date_enablement=false
+display.options.full_branch_names=true
+display.options.start_date=637731360000000000
+display.options.timesince=ThreeMonthsAgo
+filters.conditional.numrules=0
+
